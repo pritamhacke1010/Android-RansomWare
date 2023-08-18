@@ -1,6 +1,6 @@
 # Android-RansomWare 
 
-git clone https://github.com/pritamhacke1010/Android-RansomWare
+
 
 cd Android-RansomWare
 
