@@ -1,12 +1,13 @@
 # Android-RansomWare 
 
+Screenshot_20230818_180839_One UI Home](https://githitamhacke1010/Android-RansomWaassets/121923329/e774ecec
 
 
 cd Android-RansomWare
 
 mv Android_RansomWare.apk /storage
 
-![Screenshot_20230818_180839_One UI Home](https://github.com/pritamhacke1010/Android-RansomWare/assets/121923329/ea342833-76bd-4f74-a0c0-de06046e3226
+
 
 
 
